@@ -23,25 +23,44 @@
 <h3>
     Icons:
 </h3>
-
 <ul>
     <li><a href="https://emojipedia.org/">EmojiPedia</a>  - Apenas emojis/Only emoji</li>
     <li><a href="https://fontawesome.com/">FontAwsome</a></li>
     <li><a href="https://feathericons.com/">FeatherIcons</a> - Complexo com CDN</li>
     <li><a href="https://remixicon.com/">RemixIcon</a> - Meu favorito, por enquanto</li>
     <li><a href="https://boxicons.com/">BoxIcon</a></li>
+    <li><a href="https://ionic.io/ionicons">IonIcons</a></li>
 </ul>
-
 
 
 <h3>
     Effects Css / Bibliotecas:
 </h3>
-
 <ul>
     <li><a href="https://swiperjs.com/">SwiperJs</a> - Possui diversos slides faceis de usar</li>
+    <li><a href="https://glidejs.com/">GliderJs</a></li>
 </ul>
 
+
+<h3>
+    Charts:
+</h3>
+
+<ul>
+    <li><a href="https://apexcharts.com/">ApexCharts</a></li>
+    <li><a href="https://www.chartjs.org/">ChartJs</a></li>
+</ul>
+
+
+
+
+<h3>
+    Animations:
+</h3>
+
+<ul>
+    <li><a href="https://greensock.com/gsap/">GSAP</a></li>
+</ul>
 
 
 <h3>
@@ -59,4 +78,3 @@
 <h6 align="center" style="font-size: 10px">
     Deus seja louvado
 </h6>
-

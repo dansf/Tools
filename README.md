@@ -39,7 +39,9 @@
 <ul>
     <li><a href="https://swiperjs.com/">SwiperJs</a> - Possui diversos slides faceis de usar</li>
     <li><a href="https://glidejs.com/">GliderJs</a></li>
+    <li><a href="https://owlcarousel2.github.io/OwlCarousel2/">OwlJs</a></li>
 </ul>
+
 
 
 <h3>
@@ -50,8 +52,6 @@
     <li><a href="https://apexcharts.com/">ApexCharts</a></li>
     <li><a href="https://www.chartjs.org/">ChartJs</a></li>
 </ul>
-
-
 
 
 <h3>
@@ -72,9 +72,3 @@
     <li><a href="https://www.figma.com/">Figma</a></li>
     <li><a href="https://www.adobe.com/br/products/xd.html">AdobeXD</a></li>
 </ul>
-
-
-
-<h6 align="center" style="font-size: 10px">
-    Deus seja louvado
-</h6>
